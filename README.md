@@ -1,4 +1,4 @@
-# Postgres SQL list of topics
+# Postgres SQL
 ___
 
 1. [Basics](scripts/basics.sql)
